@@ -4,24 +4,24 @@
 </p>
 
 <p align="center">
-  <code>red team • low level • assembly • reverse engineering</code>
+  <code>Red Team • Low Level • Assembly • Reverse Engineering</code>
 </p>
 
 ---
 
-<!-- BLACKOUT STATUS LINE -->
+<!-- وضعیت سیستم -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=8b0000&center=true&width=780&lines=ACCESS+GRANTED;RED+TEAM+ACTIVE;LOGGING+DISABLED;BLACKOUT+MODE+ENABLED;DO+NOT+ASSUME+SAFETY" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2200&color=8b0000&center=true&width=780&lines=دسترسی+تایید+شد;حالت+رد+تیم+فعال+است;ثبت+لاگ+غیرفعال+شد;حالت+خاموشی+فعال;امنیت+را+بدیهی+فرض+نکن" />
 </p>
 
 ---
 
-## ☣️ SYSTEM / ERROR LOG
+## ☣️ گزارش سیستم
 ```txt
-[ OK ] kernel loaded
-[ OK ] ring0 access granted
-[WARN] integrity check failed
-[ERR ] memory corruption detected
-[ERR ] stack trace unavailable
-[WARN] forensic data missing
-[FAIL] system state unknown
+[ OK ] هسته بارگذاری شد
+[ OK ] دسترسی سطح پایین فعال شد
+[ WARN ] بررسی یکپارچگی ناموفق
+[ ERR ] خرابی حافظه شناسایی شد
+[ ERR ] ردپا قابل بازیابی نیست
+[ WARN ] داده‌های تحلیلی حذف شده‌اند
+[ FAIL ] وضعیت سیستم نامشخص است
