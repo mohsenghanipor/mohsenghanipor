@@ -1,4 +1,6 @@
-![Languages Marquee](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=کوچیک همتون محسنم)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=mohsen&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 ---
 
