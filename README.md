@@ -1,10 +1,9 @@
-# 👋 سلام! من [اسمت اینجا]
+#![Languages Marquee](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=mohsen)
 
 ---
 
 ## 🛠️ مهارت‌ها
 ## 🛠️ مهارت‌ها و زبان‌ها
-![Languages Marquee](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Python;JavaScript;C++;Java;C#;Assembly;Ruby;PHP;Go;Rust;Swift;Kotlin;HTML;CSS;SQL&center=true)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
