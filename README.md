@@ -13,8 +13,13 @@
   مهارت ها
 </h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,go,rust,php,html,css,sql,git,github&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,go&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,php,html,css,sql,git,github&theme=dark" />
+</p>
+
 
 
 ---
