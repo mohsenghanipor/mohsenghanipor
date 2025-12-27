@@ -1,6 +1,6 @@
 <!-- NAME (Soft Fade In) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Ali%20Mohammadi&fontSize=48&fontColor=00ff9c&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=mohsen%ghanipor&fontSize=48&fontColor=00ff9c&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@
 
 ## 🧬 SYSTEM STATUS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsenghanipor&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsenghanipor&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
