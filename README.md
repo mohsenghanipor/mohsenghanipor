@@ -1,8 +1,3 @@
-<!-- NAME : blackout fade -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,go,rust,php,html,css,sql,git,github&theme=dark" />
-</p>
-
 <p align="center">
   <code>تیم قرمز • برنامه‌نویسی سطح پایین • اسمبلی • مهندسی معکوس</code>
 </p>
@@ -17,7 +12,9 @@
 <h1 align="center">
   مهارت ها
 </h1>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,go,rust,php,html,css,sql,git,github&theme=dark&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,go,rust,php,html,css,sql,git,github&theme=dark&perline=7" />
+</p>
 
 
 ---
