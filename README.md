@@ -1,41 +1,46 @@
+<!-- NAME (Soft Fade In) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=mohsen&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Ali%20Mohammadi&fontSize=48&fontColor=00ff9c&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <code>Low Level Programmer • Assembly • Reverse Engineering</code>
 </p>
 
 ---
 
-## 🛠️ مهارت‌ها
-## 🛠️ مهارت‌ها و زبان‌ها
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C1A?style=for-the-badge&logo=asm&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- MATRIX LINE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FF00&center=true&width=700&lines=ACCESS+GRANTED;SYSTEM+ONLINE;HACK+THE+LIMITS;CODE+IS+POWER" />
+</p>
 
 ---
 
-## 🌟 درباره من
-- عاشق برنامه‌نویسی و یادگیری زبان‌های جدید
-- علاقه‌مند به پروژه‌های متن‌باز
-- دوست دارم کدهایم خلاقانه و خوانا باشند
+## 🛠️ SKILLS / LANGUAGES
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,go,rust,php,ruby,swift,kotlin,html,css,sql,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <code>+ Assembly (x86 / x64)</code>
+</p>
 
 ---
 
-## 📫 راه ارتباط
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:youremail@example.com)
+## 🧬 SYSTEM STATUS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+---
+
+## ☣️ ABOUT ME
+```txt
+> I don't just write code.
+> I reverse it.
+> I break it.
+> I rebuild it better.
