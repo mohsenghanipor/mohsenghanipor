@@ -1,6 +1,6 @@
 <!-- NAME : blackout fade -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=mohsen&fontSize=56&fontColor=8b0000&animation=fadeIn" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,go,rust,php,html,css,sql,git,github&theme=dark" />
 </p>
 
 <p align="center">
