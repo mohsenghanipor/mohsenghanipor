@@ -1,5 +1,6 @@
+<!-- NAME : silent fade in -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=mohsen&fontSize=52&fontColor=00ff66&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=mohsen&fontSize=54&fontColor=00ff44&animation=fadeIn" />
 </p>
 
 <p align="center">
