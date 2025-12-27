@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=mohsen&fontSize=52&fontColor=00ff66&animation=fadeIn" />
+</p>
+
+<p align="center">
   <code>تیم قرمز • برنامه‌نویسی سطح پایین • اسمبلی • مهندسی معکوس</code>
 </p>
 
