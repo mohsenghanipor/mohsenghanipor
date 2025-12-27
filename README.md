@@ -18,7 +18,7 @@
   مهارت ها
 </h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,go,rust,php,html,css,sql,git,github,theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,go,rust,php,html,css,sql,git,github&theme=dark" />
 </p>
 
 ---
