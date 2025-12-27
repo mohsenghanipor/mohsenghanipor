@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&width=600&lines=سلام+دنیا!;خوش+اومدی+به+پروفایل+من;🎉+کد+و+الهام+بگیر!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&width=600&lines=🎉+سلام+دنیا!;خوش+اومدی+به+پروفایل+من;کد+و+الهام+بگیر!&center=false&rtl=true)
